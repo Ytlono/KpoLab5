@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Train xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Train>
+    <PassengerCarriage>
+      <CarriageId>4351</CarriageId>
+      <BaseTransportPrice>34</BaseTransportPrice>
+      <Distance>123</Distance>
+      <PassengerCapacity>45</PassengerCapacity>
+      <PassengerCount>34</PassengerCount>
+      <Comfort>Economy</Comfort>
+      <HasDiningFacilities>true</HasDiningFacilities>
+      <HasWiFi>true</HasWiFi>
+      <FinalPrice>439.11</FinalPrice>
+    </PassengerCarriage>
+    <PassengerCarriage>
+      <CarriageId>814</CarriageId>
+      <BaseTransportPrice>23</BaseTransportPrice>
+      <Distance>345</Distance>
+      <PassengerCapacity>34</PassengerCapacity>
+      <PassengerCount>23</PassengerCount>
+      <Comfort>Economy</Comfort>
+      <HasDiningFacilities>false</HasDiningFacilities>
+      <HasWiFi>false</HasWiFi>
+      <FinalPrice>833.1750000000001</FinalPrice>
+    </PassengerCarriage>
+    <BaggageCarriage>
+      <CarriageId>1648</CarriageId>
+      <BaseTransportPrice>56</BaseTransportPrice>
+      <Distance>556</Distance>
+      <BaggageCapacity>23</BaggageCapacity>
+      <BaggageCount>22</BaggageCount>
+      <TotalBaggageWeight>126</TotalBaggageWeight>
+      <PricePerKg>12</PricePerKg>
+      <FinalPrice>8718.08</FinalPrice>
+    </BaggageCarriage>
+    <BaggageCarriage>
+      <CarriageId>2726</CarriageId>
+      <BaseTransportPrice>25</BaseTransportPrice>
+      <Distance>234</Distance>
+      <BaggageCapacity>45</BaggageCapacity>
+      <BaggageCount>23</BaggageCount>
+      <TotalBaggageWeight>256</TotalBaggageWeight>
+      <PricePerKg>23</PricePerKg>
+      <FinalPrice>13836.419999999998</FinalPrice>
+    </BaggageCarriage>
+  </Train>
+</Train>
